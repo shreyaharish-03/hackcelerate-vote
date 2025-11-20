@@ -1,0 +1,13 @@
+# Database credentials
+config.php
+
+# Database files with real data
+*.db
+*.sqlite
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
